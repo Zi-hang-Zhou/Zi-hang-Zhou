@@ -14,9 +14,6 @@ I build **autonomous LLM agents** for real-world engineering and scientific task
 - **Agent Evaluation & Reliability** — benchmarks and adversarial verification that distinguish *"agent claims success"* from *"task actually works"*.
 - **Multi-modal Data Analysis** — combining structured tables, code, and natural language for scientific data understanding.
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zi-hang-Zhou&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-hang-Zhou&layout=compact&hide_border=true&langs_count=8" height="165"/>
-</p>
+
+
