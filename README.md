@@ -26,6 +26,7 @@ Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong Univ
 	<tr>
 		<td width="50%" valign="top">
 			<h3 align="center"><a href="https://github.com/Zi-hang-Zhou/Speechmaster">🎙️ SpeechMaster</a></h3>
+			<a href="https://github.com/Zi-hang-Zhou/Speechmaster"><img src="./assets/speechmaster-overview.png" alt="SpeechMaster system overview" width="100%" /></a>
 			<p>A reproducible, budget-aware framework for self-supervised speech recognition. It combines fast and strong SSL recognizers with complementarity-aware routing and representation-compression analysis.</p>
 			<p align="center">
 				<img src="https://img.shields.io/badge/ASR-Self--Supervised_Learning-7c3aed?style=flat-square" alt="ASR" />
@@ -34,6 +35,7 @@ Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong Univ
 		</td>
 		<td width="50%" valign="top">
 			<h3 align="center"><a href="https://github.com/Zi-hang-Zhou/NLP-project-work">🧠 KV Cache Compression</a></h3>
+			<a href="https://github.com/Zi-hang-Zhou/NLP-project-work"><img src="./assets/kv-cache-tradeoff.png" alt="KV cache compression quality and memory trade-off" width="100%" /></a>
 			<p>A reproducible comparison of StreamingLLM, SnapKV, and PyramidKV on Pythia-70M, covering perplexity, memory usage, latency, and long-context trade-offs.</p>
 			<p align="center">
 				<img src="https://img.shields.io/badge/LLM-KV_Cache-f59e0b?style=flat-square" alt="LLM KV cache" />
