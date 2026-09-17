@@ -22,6 +22,20 @@ Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong Univ
 
 ## 🚀 Selected Projects
 
+<div align="center">
+	<a href="https://github.com/Zi-hang-Zhou/SetupX">
+		<img src="https://raw.githubusercontent.com/Zi-hang-Zhou/SetupX/main/assets/setupx_hero.jpg" alt="SetupX — experience-driven automated environment configuration" width="100%" />
+	</a>
+	<h3><a href="https://github.com/Zi-hang-Zhou/SetupX">⚙️ SetupX — Experience-Driven Repository Setup</a></h3>
+	<p>An LLM-powered multi-agent system that configures software repositories inside Docker using reusable XPU knowledge, speculative execution with rollback, and independent adversarial verification.</p>
+	<p>
+		<img src="https://img.shields.io/badge/LLM-Multi--Agent_System-2563eb?style=flat-square" alt="LLM multi-agent system" />
+		<img src="https://img.shields.io/badge/Docker-Speculative_Execution-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker speculative execution" />
+		<img src="https://img.shields.io/badge/XPU-Experience_Retrieval-7c3aed?style=flat-square" alt="XPU experience retrieval" />
+		<img src="https://img.shields.io/badge/Verification-Adversarial-16a34a?style=flat-square" alt="Adversarial verification" />
+	</p>
+</div>
+
 <table>
 	<tr>
 		<td width="50%" valign="top">
