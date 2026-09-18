@@ -23,9 +23,9 @@ Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong Univ
 ## 🚀 Selected Projects
 
 <div align="center">
-	<a href="https://github.com/Zi-hang-Zhou/SetupX">
-		<img src="https://raw.githubusercontent.com/Zi-hang-Zhou/SetupX/main/assets/setupx_hero.jpg" alt="SetupX — experience-driven automated environment configuration" width="100%" />
-	</a>
+	<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/c6684028-50bd-4205-828f-5e22d3b30f73" />
+	</p>
 	<h3><a href="https://github.com/Zi-hang-Zhou/SetupX">⚙️ SetupX — Experience-Driven Repository Setup</a></h3>
 	<p>An LLM-powered multi-agent system that configures software repositories inside Docker using reusable XPU knowledge, speculative execution with rollback, and independent adversarial verification.</p>
 	<p>
