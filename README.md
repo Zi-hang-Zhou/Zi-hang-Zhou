@@ -14,9 +14,10 @@ Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong Univ
 
 ## 👨‍💻 About Me
 
-- 🎓 **Undergraduate (Sophomore)** at SJTU School of Artificial Intelligence
-- 🔍 Interested in reliable agents, repository understanding, and scientific AI
-- 🧪 I care about the gap between *"the agent claims success"* and *"the task actually works"*
+- 🎓 **Undergraduate (Junior)** at SJTU School of Artificial Intelligence
+- 🎓 **Research Intern at Microsoft Research Asia (MSRA) in Shanghai**
+- 🔍 Interested in Self evolving agents & RSI, reliable agents, repository understanding, and scientific AI
+- 🧪 I care the definition of the capability of an agent and about the gap between *"the agent claims success"* and *"the task actually works"*
 - 🏅 **National Scholarship** recipient (Top 0.5%, 2025)
 - 🚀 Admitted to university one year early through Gaokao (Top 0.05% in Jiangsu)
 
