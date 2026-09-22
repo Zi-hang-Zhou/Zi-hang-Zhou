@@ -2,7 +2,7 @@
 
 # Hi, I'm Zihang Zhou 👋
 
-### Self evolving agents · Reliable LLM Agents · Agent Evaluation · Reproducible AI Systems
+### Self Evolving Agents · Reliable LLM Agents · Agent Evaluation · Reproducible AI Systems
 
 Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong University](https://ai.sjtu.edu.cn/), building AI systems that can be **tested, verified, and reproduced**.
 
