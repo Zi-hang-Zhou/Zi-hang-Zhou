@@ -6,6 +6,7 @@
 
 Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong University](https://ai.sjtu.edu.cn/), building AI systems that can be **tested, verified, and reproduced**.
 
+[![Personal Homepage](https://img.shields.io/badge/Website-Personal_Homepage-2e6556?style=flat-square)](https://zi-hang-zhou.github.io/)
 [![Email](https://img.shields.io/badge/Email-zzh2024%40sjtu.edu.cn-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:zzh2024@sjtu.edu.cn)
 [![SJTU](https://img.shields.io/badge/SJTU-School_of_Artificial_Intelligence-c41e3a?style=flat-square)](https://ai.sjtu.edu.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-Zi--hang--Zhou-181717?style=flat-square&logo=github)](https://github.com/Zi-hang-Zhou)
