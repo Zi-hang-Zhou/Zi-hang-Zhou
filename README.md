@@ -22,6 +22,12 @@ Undergraduate at the [School of Artificial Intelligence, Shanghai Jiao Tong Univ
 - 🏅 **National Scholarship** recipient (Top 0.5%, 2025)
 - 🚀 Admitted to university one year early through Gaokao (Top 0.05% in Jiangsu)
 
+## Recent Research
+
+**[Live Skill Evolution for Forecasting Agents with Delayed Outcome Feedback](https://openreview.net/forum?id=8MIM9QGcap)**
+
+Co-author · Under review at **ICLR 2027**. Future-SE evolves a reusable natural-language skill library for forecasting agents using delayed outcome feedback, while keeping the base model and agent harness fixed.
+
 ## 🚀 Selected Projects
 
 <div align="center">
